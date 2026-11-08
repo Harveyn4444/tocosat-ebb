@@ -1,0 +1,14 @@
+BasedOnStyle: LLVM
+
+# Indentation
+UseTab: Always
+IndentWidth: 4
+TabWidth: 4
+
+# Brace style (K&R)
+BreakBeforeBraces: Attach
+
+# Optional but recommended
+ColumnLimit: 100
+
+AllowShortFunctionsOnASingleLine: None
