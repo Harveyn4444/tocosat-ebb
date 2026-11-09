@@ -1,0 +1,3 @@
+[submodule "software/test_code/lm75/libs/pico-lm75"]
+	path = software/test_code/lm75/libs/pico-lm75
+	url = https://github.com/Harveyn4444/pico-lm75.git
